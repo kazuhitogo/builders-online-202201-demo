@@ -132,3 +132,8 @@ train_randcrop/*.png
 test_movie/*.png
 test_result/*
 annotations.json
+
+train_random_crop_images/*.png
+test_detect_images/*.png
+test_crop_images/*.png
+
