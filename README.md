@@ -6,4 +6,5 @@ Amazon SageMaker JumpStart で SSD MobileNet v1 を用いた Fine-Tune による
 
 学習には ml.g4dn.xlarge という GPU インスタンスの使用を推奨しています。アカウントの初期状態だと使用できないので、[リンク](https://docs.aws.amazon.com/ja_jp/general/latest/gr/aws_service_limits.html)の  
 > AWS サポートセンターのページを開き、必要に応じてサインインし、[Create case] を選択します。[Service Limit increase](サービス制限の緩和) を選択します。フォームに入力して送信します。  
+
 から SageMaker Training Instance の ml.g4dn.xlarge を 1 台使えるように申請してください。
